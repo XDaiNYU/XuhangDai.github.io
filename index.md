@@ -1,6 +1,7 @@
 ---
 layout: home
 title: "Xuhang Dai"
+author_profile: true
 ---
 
 # 👋 Hi, I'm Xuhang Dai
