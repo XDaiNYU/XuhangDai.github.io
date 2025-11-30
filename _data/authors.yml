@@ -1,18 +1,16 @@
-# Authors
-
-Name Name:
-  name        : "Name Name"
-  uri         : "https://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+XuhangDai:
+  name: "Xuhang Dai"
+  avatar: "/images/xuhangdai.jpg"
+  bio: "Ph.D. Candidate | Computational Chemistry | NYU"
+  location: "New York, USA"
+  email: "xd638@nyu.edu"
+  links:
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:xd638@nyu.edu"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/XDaiNYU"
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar"
+      url: "https://scholar.google.com/citations?hl=en&user=Vx02CkcAAAAJ"
