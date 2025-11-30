@@ -5,7 +5,7 @@ plugins:
   - jekyll-include-cache
 author:
   name: "Xuhang Dai"
-  avatar: "/images/xuhangdai.jpg"
+  avatar: "xuhangdai.jpg"
   bio: "Ph.D. Candidate | Computational Chemistry | NYU"
   location: "New York, USA"
   links:
